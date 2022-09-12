@@ -1,6 +1,6 @@
 # Analogic Clock UX
 
-<img src="" alt="clock">
+<img src="https://raw.githubusercontent.com/losanthiago/analogic-clockUX/master/clockUX.png" alt="clock">
 
 Clock created in HTML/CSS and Javascript. Project created focused on UX for better visualization. All the code is available in the repository along with the timetable image.
 
